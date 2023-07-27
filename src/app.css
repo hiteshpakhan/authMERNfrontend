@@ -1,0 +1,11 @@
+.colo {
+    color-scheme: light dark;
+    color: rgba(255, 255, 255, 0.87);
+    background-color: #242424;
+    height: 100vh;
+    text-align: center;
+    margin: auto;
+  /* width: 50%; */
+  border: 3px solid rgb(0, 195, 255);
+  /* padding: 10px; */
+}
