@@ -6,3 +6,8 @@ the following packages are installed for creating this project
 
         npm i react-router-dom
         npm i axios
+
+the backend link that we use 
+
+        "https://authmernbackend-7799.onrender.com"
+
